@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GameMania.iml" filepath="$PROJECT_DIR$/GameMania.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameManiaUI/GameManiaUI.iml" filepath="$PROJECT_DIR$/GameManiaUI/GameManiaUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogicLayer/LogicLayer.iml" filepath="$PROJECT_DIR$/LogicLayer/LogicLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersistenceLayer/PersistenceLayer.iml" filepath="$PROJECT_DIR$/PersistenceLayer/PersistenceLayer.iml" />
+    </modules>
+  </component>
+</project>
